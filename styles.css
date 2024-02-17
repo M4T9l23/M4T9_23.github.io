@@ -14,7 +14,7 @@ body{
 
     header {
         margin: -100px 0px 0px 0px;
-        padding:5%;
+        padding:5% 5% 5% 5%;
         color: rgb(59, 68, 37);
     }
 
@@ -44,6 +44,14 @@ body{
         display: inline-block;
         margin: auto;
         text-align: center;
+    }
+
+    div-2 {
+        padding: 0%;
+        display: inline-block;
+        margin: auto;
+        text-align: center;
+        text-decoration-color: white;
     }
     button {
         background-color: #32e932;
