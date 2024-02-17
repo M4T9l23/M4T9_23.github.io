@@ -2,12 +2,12 @@ body{
     margin: 0;
     background: rgb(32, 32, 32);
     color: rgb(201, 194, 194);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
     h1 {
         text-align: center;
         color: rgb(146, 179, 171);
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         padding: 1% 10% 1% 10%;
         background-color: rgb(36, 73, 61);
     }
@@ -32,6 +32,11 @@ body{
         display: inline-block;
         margin: 10px 20px 0px 50px;
     }
+
+   a {
+        color: rgb(65, 230, 230);
+    }
+
 
     div-1 {
         padding: 10px 40px 10px 40px ;
