@@ -1,14 +1,14 @@
 body{
     margin: 0;
     background: rgb(32, 32, 32);
-    color: rgb(201, 194, 194);
+    color: rgb(255, 243, 243);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
     h1 {
         text-align: center;
         color: rgb(146, 179, 171);
-        padding: 1% 10% 1% 10%;
+        padding: 1% 11% 1% 10%;
         background-color: rgb(36, 73, 61);
     }
 
@@ -46,12 +46,51 @@ body{
         text-align: center;
     }
 
-    div-2 {
+    div-2{   
+        padding: 10px 20px 10px 20px ;
+        background-color: rgb(32, 43, 22);
+        display: inline-block;
+        margin: auto;
+        text-align: center;
+    }
+
+    div-3{
+        padding: 10px 20px 10px 20px ;
+        background-color: rgb(71, 92, 52);
+        display: inline-block;
+        margin: auto;
+        text-align: center;
+    }
+
+    div-4{
+        padding: 10px 10px 10px 20px ;
+        background-color: rgb(115, 184, 51);
+        display: inline-block;
+        margin: auto;
+        text-align: center;
+    }
+
+    div-5{
+    padding: 10px 10px 10px 20px ;
+    background-color: rgb(36, 73, 4);
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 0px; 
+    left: 0px; 
+    }
+
+    div-100 {
         padding: 0%;
         display: inline-block;
         margin: auto;
         text-align: center;
         text-decoration-color: white;
+        position: fixed;
+        bottom: 83%;
+        right: 20%;
+        width: 100px;
     }
     button {
         background-color: #32e932;
