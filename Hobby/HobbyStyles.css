@@ -12,6 +12,11 @@ body{
         background-color: rgb(36, 73, 61);
     }
 
+    h4{
+        margin-top: 3%;
+        color: rgb(146, 179, 171);
+    }
+
     header {
         margin: -100px 0px 0px 0px;
         padding:5% 5% 5% 5%;
@@ -23,26 +28,19 @@ body{
     }
 
     ul {
-        margin: 10px;
-        padding: 0px;
-        list-style-type: none;
+        margin: 6%;
+        padding: 0%;
+
+        display: flex;
     }
 
     li {
         display: inline-block;
-        margin: 10px 20px 0px 50px;
+        margin: 5%;
     }
 
    a {
         color: rgb(65, 230, 230);
-    }
-
-
-    div-10 {
-        padding: 10px 40px 10px 40px ;
-        background-color: rgb(32, 43, 22);
-
-        text-align: center;
     }
 
     div-2{
