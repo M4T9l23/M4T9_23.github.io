@@ -43,6 +43,12 @@ body{
         color: rgb(65, 230, 230);
     }
 
+    div-0{
+        text-align: top;
+         background-color: #262b26;
+         padding: 0px 10px;
+    }
+
     div-2{
         margin: 1%;
         padding: 0.5%;
