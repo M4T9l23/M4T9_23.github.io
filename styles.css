@@ -54,18 +54,27 @@ body{
     }
 
 
-img{
-    width: 20%;
-    height: 20%;
-    margin: 5%;
-    margin: 1%;
-    padding: 0.5%;
-    background-color: rgb(59, 68, 62);
-    border-radius: 10px;
+    img{
+        width: 20%;
+        height: 20%;
+        margin: 5%;
+        margin: 1%;
+        padding: 0.5%;
+        background-color: rgb(59, 68, 62);
+        border-radius: 10px;
+        }
+    p {
+        margin-left: 2.2%;
     }
-p {
-    margin-left: 2.2%;
-}
 
+    div-1 {
+        margin: 5%;
+        padding: 1%;
+        background-color: rgb(60, 78, 69);
+    }
+    h6 {
+        text-align: center;
+        margin-top: -50px;
+    }
 
 
