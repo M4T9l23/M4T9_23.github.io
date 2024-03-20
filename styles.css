@@ -1,7 +1,7 @@
 body{
     margin: 0;
-    background: rgb(32, 32, 32);
-    color: rgb(201, 194, 194);
+    background: rgb(50, 45, 48);
+    color: rgb(203, 234, 220);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
@@ -9,13 +9,14 @@ body{
         text-align: center;
         color: rgb(146, 179, 171);
         padding: 1% 11% 1% 10%;
-        background-color: rgb(36, 73, 61);
+        background-color: rgb(60, 78, 69);
+        border-radius: 5px;
     }
 
     header {
         margin: -100px 0px 0px 0px;
         padding:5% 5% 5% 5%;
-        color: rgb(59, 68, 37);
+        color: rgb(56, 61, 53);
     }
 
     section {
@@ -26,7 +27,7 @@ body{
 
     ul {
         margin: 10px 10px 15px 10px;
-        padding: 0px;
+        padding: 10px;
         list-style-type: none;
     }
 
@@ -36,17 +37,20 @@ body{
     }
 
    a {
-        color: rgb(65, 230, 230);
+        color: rgb(117, 168, 224);
+        padding: 10px;
+        background-color: rgb(34, 58, 52);
+        border-radius: 5px 20px;
     }
 
     h4{
         margin-top: 3%;
-        color: rgb(146, 179, 171);
+        color: rgb(238, 238, 238);
     }
 
     div {
         margin: 1%;
-        background-color: rgb(32, 43, 22);
+        background-color: rgb(238, 238, 238);
     }
 
 
@@ -56,7 +60,11 @@ img{
     margin: 5%;
     margin: 1%;
     padding: 0.5%;
-    background-color: rgb(43, 43, 43);
+    background-color: rgb(59, 68, 62);
+    border-radius: 10px;
+    }
+p {
+    margin-left: 2.2%;
 }
 
 
