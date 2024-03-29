@@ -9,7 +9,7 @@ body{
         text-align: center;
         color: rgb(146, 179, 171);
         padding: 1% 11% 1% 10%;
-        background-color: rgb(60, 78, 69);
+        background-color: rgb(43, 71, 57);
         border-radius: 5px;
     }
 
@@ -39,7 +39,7 @@ body{
    a {
         color: rgb(117, 168, 224);
         padding: 10px;
-        background-color: rgb(34, 58, 52);
+        background-color: rgb(43, 71, 57);
         border-radius: 5px 20px;
     }
 
@@ -62,7 +62,8 @@ body{
         padding: 0.5%;
         background-color: rgb(59, 68, 62);
         border-radius: 7px;
-        }
+    }
+
     p {
         margin-left: 2.2%;
     }
@@ -70,11 +71,33 @@ body{
     div-1 {
         margin: 5%;
         padding: 1%;
-        background-color: rgb(60, 78, 69);
+        background-color: rgb(43, 71, 57);
+        border-radius: 40px;
     }
+
     h6 {
         text-align: center;
         margin-top: -50px;
     }
 
+    footer{
+        text-align: center;
+        margin-top: 1%;
+        padding: 1.5% 10% 2% 10%;
+        background-color: rgb(43, 71, 57);
 
+    }
+
+    div-02{
+        font-size: 130%;
+    }
+
+    div-03{
+
+    }
+
+    div-00{
+        background-color: rgb(50, 45, 48);
+        color: rgb(50, 45, 48);
+        margin: 10px;
+    }
